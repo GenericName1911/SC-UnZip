@@ -6,7 +6,7 @@ The `.pyw` (python no-console) extension should be run using `Python`. It has be
 
 ## Features:
 
-- The is **Cross-Platform**. That is, it works on all major operating systems like Windows, macOS, and Linux.
+- The tool is **Cross-Platform**. That is, it works on all major operating systems like Windows, macOS, and Linux.
 - Supports **Batch Conversion**. You can use it to convert multiple files at once.
 - **Same Directory** output. The script saves the decompressed files in the same folder as the originals, no matter where you run it from.
 - **Open Source**. Licensed under GNU GPLv3.
