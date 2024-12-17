@@ -21,7 +21,7 @@ The `.pyw` (python no-console) extension should be run using `Python`. It has be
 
 - This script is a modified version of [sc-compression by danila-schelkov](https://github.com/danila-schelkov/sc-compression)
 
-- setup.py is an optimised version of the one made by [Archos](https://github.com/ARHCOS)
+- setup.py is an optimised version of the one made by [Arhcos](https://github.com/ARHCOS)
 
 
 
