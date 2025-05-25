@@ -1,6 +1,6 @@
 # SC-UnZip
 
-This is a simple decompressor for Supercell's game assets, _specifically_ for CSV and TOML files. The name is self-explanatory, just drag and drop the compressed files onto the tool, and it will decompress them for you. Make sure to run `setup.py` before trying to decompress any files!
+This is a simple decompressor for Supercell's game assets, _specifically_ for CSV and TOML files. Just drag and drop the compressed files onto the tool, and it will decompress them for you. Make sure to run `setup.py` before trying to decompress any files!
 
 The `.pyw` (python no-console) extension should be run using `Python`. It has been used to prevent unnecessary console flashing. Requires Python version >=3.5
 
