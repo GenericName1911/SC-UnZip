@@ -4,6 +4,8 @@ This is a simple decompressor for Supercell's game assets, _specifically_ for CS
 
 The `.pyw` (python no-console) extension should be run using `Python`. It has been used to prevent unnecessary console flashing. Requires Python version >=3.5
 
+Video Demonstration: https://youtu.be/rwcI5cqxYDI
+
 ## Features:
 
 - The tool is **Cross-Platform**. That is, it works on all major operating systems like Windows, macOS, and Linux.
